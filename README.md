@@ -17,8 +17,10 @@ If you are developing a production application, we recommend using TypeScript wi
 ### Live Website
 [Visit Exam Vault](https://fsd-project-ixs07o741-harshitha-31b6.vercel.app/)
 
-############ ppt on exam vault
-https://teamily.ai/link/jDFfSWkBmIM
+## Project Presentation
+
+[View Exam Vault Project Presentation (PDF)](presentation/examvaultpresentaion.pdf)
+
 
 
 
