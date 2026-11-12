@@ -19,7 +19,8 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ## Project Presentation
 
-[View Exam Vault Project Presentation (PDF)](presentation/examvaultpresentaion.pdf)
+(presentation/examvaultpresentaion.pdf)
+
 https://ap.wps.com/cms/docs/d/cbCaek5UGCrWhwRY?platform=pc&refer=copylink
 
 
